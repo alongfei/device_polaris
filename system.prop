@@ -1,0 +1,8 @@
+# Camera
+persist.camera.sat.fallback.dist=45
+persist.camera.sat.fallback.dist.d=5
+persist.camera.sat.fallback.luxindex=405
+persist.camera.sat.fallback.lux.d=20
+ro.droidx.maintainer= Charon
+ro.droidx.chipset=Snapdragon 845
+ro.droidx.display_resolution=5.59" IPS LCD 1080x2160
